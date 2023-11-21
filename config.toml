@@ -1,0 +1,15 @@
+baseurl = "https://arungop.github.io/fesem/"
+title = "FESEM - EDS"
+author = "Department of Physics, CUSAT"
+canonifyurls = true
+languagecode = "en"
+theme = "black-and-light"
+
+pygmentsstyle       = "bw"
+pygmentscodefences  = true
+
+[params]
+  sitename = "Field Emission Scanning Electron Microscopy (FESEM) and Energy Dispersive Spectroscopy (EDS)"
+  disableWebFonts = false
+
+
