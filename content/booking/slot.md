@@ -5,7 +5,7 @@ linktitle: Slot booking
 title: Slot booking and fee details
 ---
 
-All communuication related to payment details and sample preparation must be done through fesemdop@gmail.com
+All communuication related to payment details and sample preparation must be done through fesemdop@cusat.ac.in
 
 # Fee details
 
