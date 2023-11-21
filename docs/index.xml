@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>FESEM - EDS</title>
-    <link>https://arungop.github.io/fesem/</link>
+    <link>https://fesemdop.github.io/</link>
     <description>Recent content on FESEM - EDS</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Mon, 20 Nov 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://arungop.github.io/fesem/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://fesemdop.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>FESEM and EDS in Department of Physics,CUSAT</title>
-      <link>https://arungop.github.io/fesem/about/</link>
+      <link>https://fesemdop.github.io/about/</link>
       <pubDate>Mon, 20 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://arungop.github.io/fesem/about/</guid>
+      <guid>https://fesemdop.github.io/about/</guid>
       <description>Field-Emission Scanning Electron Microscope (FE-SEM), Zeiss Sigma, provides excellent imaging properties combined with analytical capabilities makes this high end FE-SEM suitable for a wide range of applications in materials science, life science and semiconductor technology. The large specimen chamber for the integration of optional detectors and accessories enables the user to configure the Sigmafor specific applications without sacrificing productivity or efficiency. EDS (Energy X-Ray Dispersive Spectrometer (Bruker)) with X-flash ® 6 | 100 is also attached for chemical analysis and elemental mapping.</description>
     </item>
     <item>
       <title>Slot booking and fee details</title>
-      <link>https://arungop.github.io/fesem/booking/slot/</link>
+      <link>https://fesemdop.github.io/booking/slot/</link>
       <pubDate>Mon, 20 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://arungop.github.io/fesem/booking/slot/</guid>
+      <guid>https://fesemdop.github.io/booking/slot/</guid>
       <description>All communuication related to payment details and sample preparation must be done through fesemdop@gmail.com
 Fee details Instrument Sister departments Sister Universities Central Universities Industries FESEM 630 1239 1859 3098 EDS 315 620 1239 1859 18% GST included
 Payment details ACCOUNT NO: 67087207521 BRANCH: SBI COCHIN UNIVERSITTY CAMPUS
@@ -29,9 +29,9 @@ Beneficiary address THE HEAD, DEPARTMENT OF PHYSICS, CUSAT, KOCHI – 22</descri
     </item>
     <item>
       <title>Can you solve this FESEM riddle ?</title>
-      <link>https://arungop.github.io/fesem/puzzles/puzzle_2023/</link>
+      <link>https://fesemdop.github.io/puzzles/puzzle_2023/</link>
       <pubDate>Mon, 20 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://arungop.github.io/fesem/puzzles/puzzle_2023/</guid>
+      <guid>https://fesemdop.github.io/puzzles/puzzle_2023/</guid>
       <description>Zooming In: The Tiny Wonders of CUSAT&amp;rsquo;s Blooms Arun Gopinathan gathered specimens of nine distinct flower samples(petals) from the department compound and captured detailed images using FESEM. Can you unravel the puzzle?
 Solutions FLOWER FESEM IMAGES Sputter butterfly pea v Velvetleaf iv Touch me not i Ruellia vi Tridax procumbus ii Centratherum vii Spiderwort iii Aspilia ix West Indian lanthana viii </description>
     </item>

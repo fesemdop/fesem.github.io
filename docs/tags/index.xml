@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on FESEM - EDS</title>
-    <link>https://arungop.github.io/fesem/tags/</link>
+    <link>https://fesemdop.github.io/tags/</link>
     <description>Recent content in Tags on FESEM - EDS</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <atom:link href="https://arungop.github.io/fesem/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://fesemdop.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
