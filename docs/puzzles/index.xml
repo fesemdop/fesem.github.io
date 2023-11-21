@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Puzzles on FESEM - EDS</title>
+    <link>https://arungop.github.io/fesem/puzzles/</link>
+    <description>Recent content in Puzzles on FESEM - EDS</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 20 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://arungop.github.io/fesem/puzzles/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Can you solve this FESEM riddle ?</title>
+      <link>https://arungop.github.io/fesem/puzzles/puzzle_2023/</link>
+      <pubDate>Mon, 20 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://arungop.github.io/fesem/puzzles/puzzle_2023/</guid>
+      <description>Zooming In: The Tiny Wonders of CUSAT&amp;rsquo;s Blooms Arun Gopinathan gathered specimens of nine distinct flower samples(petals) from the department compound and captured detailed images using FESEM. Can you unravel the puzzle?
+Solutions FLOWER FESEM IMAGES Sputter butterfly pea v Velvetleaf iv Touch me not i Ruellia vi Tridax procumbus ii Centratherum vii Spiderwort iii Aspilia ix West Indian lanthana viii </description>
+    </item>
+  </channel>
+</rss>
