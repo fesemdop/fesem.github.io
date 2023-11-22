@@ -4,14 +4,19 @@ date = "2023-11-20"
 +++
 
 
-Field-Emission Scanning Electron Microscope (FE-SEM), Zeiss Sigma, provides excellent imaging properties combined with analytical capabilities makes this high end FE-SEM suitable for a wide  range of applications in materials science, life science and semiconductor technology. The large  specimen chamber for the integration of optional detectors and accessories enables the user to  configure the Sigmafor specific applications without sacrificing productivity or efficiency. EDS  (Energy X-Ray Dispersive Spectrometer (Bruker)) with X-flash ® 6 | 100 is also attached for  chemical analysis and elemental mapping.  
+**Field-Emission Scanning Electron Microscope (FE-SEM), Zeiss Sigma**, provides excellent imaging properties combined with analytical capabilities makes this high end FE-SEM suitable for a wide  range of applications in materials science, life science and semiconductor technology. The large  specimen chamber for the integration of optional detectors and accessories enables the user to  configure the Sigmafor specific applications without sacrificing productivity or efficiency. **EDS  (Energy X-Ray Dispersive Spectrometer (Bruker)) with Quantax X-flash ® 6 | 100** is also attached for  chemical analysis and elemental mapping.  
 
 	• GEMINI Technology with high efficiency in-lens detector and no magnetic field at  specimen level  
 	• Superb resolution and image quality at high and low operating voltages 
-	• Magnification ranges from 10x to 500,000x  
+	• Magnification ranges from 75x to 1000,000x  
 	• Extremely wide operating voltage range from 0.2-30kV  
 	• Designed-in ease of use with minimal adjustments required when changing operating  conditions  
 	• Multi-User friendly with Windows® based SmartSEM control software and ESPRIT  software. 
+
+| **Equipment** 	| **Model**                           	| **Software** 	|
+|:-------------:	|:-------------------------------------:|:------------:	|
+| **_FESEM_**   	| _Carl Zeiss Sigma_                  	|  _SMARTSEM_  	|
+| **_EDS_**     	| _Bruker Quantax X-flash ® 6 \| 100_ 	|   _ESPRIT_   	|
 	
 ![FESEM](/fesem.jpg)	
 	

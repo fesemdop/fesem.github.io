@@ -5,35 +5,48 @@ linktitle: Slot booking
 title: Slot booking and fee details
 ---
 
-All communuication related to payment details and sample preparation must be done through fesemdop@cusat.ac.in
+> All enquiries related to payment details and sample preparation must be done through fesemdop@cusat.ac.in
+
+# Work order form
+
+Fill all the necessary sample details and other requirements in the work order form.
+
+[Download form](https://drive.google.com/file/d/1waPQklar4gu8_LqLh-Oj0xjvmODzGW-b/view?usp=sharing)
+
 
 # Fee details
 
-| Instrument | Sister departments | Sister Universities | Central Universities  | Industries |
-|------------|--------------------|---------------------|-----------------------|------------|
-| FESEM      | 630                | 1239                | 1859                  | 3098       |
-| EDS        | 315                | 620                 | 1239                  | 1859       |
+| Instrument   | Sister departments   | Sister Universities   | Central Universities    | Industries   |
+|:------------:|:--------------------:|:---------------------:|:-----------------------:|:------------:|
+| FESEM        | 630                  | 1239                  | 1859                    | 3098         |
+| EDS          | 315                  | 620                   | 1239                    | 1859         |
 
-> 18% GST included
+* 18% GST included
 
 # Payment details 
 
-ACCOUNT NO: **67087207521** 
-BRANCH: SBI COCHIN UNIVERSITTY CAMPUS  
-IFSC CODE: **SBIN0070235**
+Payments are accepted via online mode only.
 
-NOTE: Work order form along with samples and payment details must be send to below address. 
 
-## Beneficiary address 
+| **ACCOUNT NUMBER** 	| **_67087207521_**                   	|
+|:--------------------	|-------------------------------------:|
+| **BRANCH**         	| **_SBI COCHIN UNIVERSITTY CAMPUS_** 	|
+| **IFSC CODE**      	| **_SBIN0070235_**                   	|
 
-THE HEAD, 
-DEPARTMENT OF PHYSICS, 
-CUSAT, KOCHI – 22 
 
-OFFICE: 0484-2862441, 0484-2577404 
 
-EMAIL: fesemdop@cusat.ac.in
 
-# Work order form
-[Download](https://drive.google.com/file/d/1waPQklar4gu8_LqLh-Oj0xjvmODzGW-b/view?usp=sharing)
+
+# Beneficiary address 
+
+| **The Head,**                        	|
+|:--------------------------------------|
+| **Department of Physics,**           	|
+| **CUSAT, Kochi-22**                  	|
+| **Office: 0484-2862441, 0484-25774** 	|
+| **email: fesemdop@cusat.ac.in**      	|
+
+
+> **NOTE:** _Work order form along with samples and payment details must be send to the above address. Mention "**FESEM/EDS samples**" in the letter head._ 
+
 

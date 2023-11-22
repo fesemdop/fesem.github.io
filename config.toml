@@ -9,7 +9,7 @@ pygmentsstyle       = "bw"
 pygmentscodefences  = true
 
 [params]
-  sitename = "Field Emission Scanning Electron Microscopy (FESEM) and Energy Dispersive Spectroscopy (EDS)"
+  sitename = "FESEM Laboratory, Department of Physics, CUSAT"
   disableWebFonts = false
 
 
